@@ -1,1 +1,1 @@
-# mortal_kombat
+# Mortal_Kombat- учебный проект GLO Academy
